@@ -1,0 +1,12 @@
+arxiv
+pandas
+requests
+beautifulsoup4
+lxml
+tqdm
+openai
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+pdfminer.six
